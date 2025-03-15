@@ -1,0 +1,13 @@
+maubot: 0.1.0
+id: io.zachs.joiner
+version: 1.0.0
+license: GPL-3.0
+modules:
+- joiner
+main_class: JoinerBot
+database: false
+config: true
+dependencies:
+- mautrix
+extra_files:
+- base-config.yaml

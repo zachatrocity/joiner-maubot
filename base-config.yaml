@@ -1,0 +1,13 @@
+# List of Matrix user IDs that are allowed to use this bot
+# If empty, all users can use the bot
+# Format: @username:server.org
+allowed_users:
+# - "@admin:example.com"
+
+# List of rooms the bot has joined
+# This will be populated automatically as the bot joins rooms
+joined_rooms: []
+
+# Command prefix (default is !)
+# You can change this if you want to use a different prefix
+command_prefix: "!"
