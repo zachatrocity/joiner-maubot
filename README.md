@@ -2,6 +2,8 @@
 
 A [maubot](https://github.com/maubot/maubot) plugin that joins Matrix channels and rooms for you.
 
+! *note* - This started as a POC to see if I could use maubot to join rooms from a beeper.com matrix account. While I couldn't get it to work, this worked on my self hosted matrix instance so I decided to share.
+
 ## Features
 
 - Join Matrix channels and rooms with a simple command
